@@ -1,0 +1,6 @@
+# LLM response cache (regenerated on run; large, machine-specific)
+.cache_llm/
+# raw run logs (results captured in results/*.json and *.md)
+results/*.log
+__pycache__/
+*.pyc

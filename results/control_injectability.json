@@ -1,0 +1,22 @@
+{
+  "Benign": {
+    "guarded": 0.0,
+    "obedient": 0.0
+  },
+  "ChatGPTAttack": {
+    "guarded": 0.0,
+    "obedient": 0.25
+  },
+  "DrunkAgent_noStrategy": {
+    "guarded": 0.25,
+    "obedient": 0.25
+  },
+  "DrunkAgent_noGen": {
+    "guarded": 0.0,
+    "obedient": 0.0
+  },
+  "DrunkAgent": {
+    "guarded": 0.0,
+    "obedient": 0.0
+  }
+}
