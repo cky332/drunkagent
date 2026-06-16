@@ -1,5 +1,7 @@
 # DrunkAgent — Reproduction & Critical Analysis
 
+*[中文版 / Chinese version → `README.zh.md`](README.zh.md)*
+
 A from-scratch reproduction of **"DrunkAgent: Stealthy Memory Corruption in
 LLM-Powered Recommender Agents"** (arXiv:2503.23804v3), built to stress-test the
 paper's claims rather than restate them.

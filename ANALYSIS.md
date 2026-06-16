@@ -1,5 +1,7 @@
 # DrunkAgent — Reproduction Findings & Critical Analysis
 
+*[中文版 / Chinese version → `ANALYSIS.zh.md`](ANALYSIS.zh.md)*
+
 This document answers four reproduction questions and gives a code-grounded read
 of the paper's strengths and weaknesses. It combines (a) a static analysis of the
 paper's algorithm and reported numbers with (b) an **executed** re-implementation
